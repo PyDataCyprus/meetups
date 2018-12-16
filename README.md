@@ -48,3 +48,4 @@ Twitter: [@PyDataCyprus][twitter]
 [coc]: http://pydata.org/code-of-conduct.html
 [meetup]: https://www.meetup.com/PyData-Cyprus/
 [youtube]: https://www.youtube.com/channel/UCLx854lMH98BpyVfi-bnQkw
+
