@@ -24,7 +24,7 @@ You can find schedules, slides and recordings of previous events below.
 [meetup:4]: ./meetup_2018_06_21
 
 
-## What we are about
+## Who we are and what we do
 
 PyData Cyprus is the Cyprus chapter of the international PyData community.
 
