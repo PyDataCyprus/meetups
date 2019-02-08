@@ -27,6 +27,14 @@ You can find schedules, slides and recordings of previous events below.
 
 - #6 PyData Cyprus meetup 17 Dec 2018
 
+- #7 PyData Cyprus meetup 21 Jan 2018
+
+- #8 PyData Cyprus meetup 21 Feb 2018
+
+- #9 PyData Cyprus meetup 21 Mar 2018
+
+- #10 PyData Cyprus meetup 21 Apr 2018
+
 ## Who we are and what we do
 
 PyData Cyprus is the Cyprus chapter of the international PyData community.
